@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MadLevel1Task2</string>
+    <string name="Conjunction">Conjunction (AND)</string>
+    <string name="Title_A">A</string>
+    <string name="Title_B">B</string>
+    <string name="Title_C">A^B</string>
+    <string name="True">T</string>
+    <string name="False">F</string>
+    <string name="Button">Submit</string>
+    <string name="correct">%d correct anwsers!</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="hint">t or f</string>
+</resources>
